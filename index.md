@@ -14,5 +14,4 @@ Design - Prototype - Share: All in one app.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UMOPpZ8SBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Find out more about Adobe Xd](hhttps://www.adobe.com/uk/products/xd.html){: .btn .btn-blue }
-
+[Find out more about Adobe Xd](https://www.adobe.com/uk/products/xd.html){: .btn .btn-blue}
