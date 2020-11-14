@@ -7,7 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Link button](http://example.com/){: .btn }
 
 [Link button](http://example.com/){: .btn .btn-purple }
+
 [Link button](http://example.com/){: .btn .btn-blue }
+
 [Link button](http://example.com/){: .btn .btn-green }
 
 [Link button](http://example.com/){: .btn .btn-outline }
