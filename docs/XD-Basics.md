@@ -17,8 +17,17 @@ This walk-through uses Google Material Design guidelines do create proportionall
 [MORE ON UI GRIDS](ui_grids.md){: .btn .btn-purple }
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UMOPpZ8SBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="font-size: 0.9375rem; letter-spacing: 0.45px;"></iframe>
+
+## Adobe XD Introduction Tutorial Videos Playlist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-C4a9Qw2_Y6TTMg6dvNJ967jmMwrqbp3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="font-size: 0.9375rem; letter-spacing: 0.45px;"></iframe>
+
+
 Download Icons & Grids Systems walk-through
 
-[Link to share Xd file for development](https://xd.adobe.com/spec/ed57b68a-2df4-4477-5e92-a26870f65a0f-9b66/)
+[XD Development File](http://example.com/){: .btn .btn-blue }
 
-[Download Xd Starter File](https://learn.solent.ac.uk/pluginfile.php/2432386/mod_resource/intro/starter_2.xd){: .btn .btn-blue }
+[Download Xd Starter File](https://learn.solent.ac.uk/pluginfile.php/2432386/mod_resource/intro/starter_2.xd) {: .btn .btn-purple }
+
+
