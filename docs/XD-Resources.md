@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessment
+title: Adobe XD Resources
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 1
+title: Adobe XD Basics
 nav_order: 4
 ---
 
