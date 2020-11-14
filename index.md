@@ -6,9 +6,11 @@ permalink: /
 ---
 
 # Introduction to Adobe Experience Design (XD)
-{: .fs-9 }
+{: .fs-9 }!
 
-Design - Prototype - Share: All in one app.
+![xd logo](docs/images/600px-Adobe_XD_CC_icon.png)
+
+*Design - Prototype - Share: All in one app.*
 
 "Adobe XD gives you everything you need to design and prototype websites, mobile apps, voice interactions, touch screens and more. It’s the fastest way to go from idea to experience all in the same app. And it’s free."
 
