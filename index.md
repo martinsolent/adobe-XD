@@ -14,16 +14,5 @@ Design - Prototype - Share: All in one app.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UMOPpZ8SBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[adobe.com/uk/products/xd.html](https://www.adobe.com/uk/products/xd.html)
 
-Find out more about Adobe Xd >> 
-
-
-
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
-
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
-
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
-
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-outline }
+Find out more about Adobe Xd: [adobe.com/uk/products/xd.html](https://www.adobe.com/uk/products/xd.html)
