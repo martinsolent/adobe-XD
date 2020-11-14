@@ -12,6 +12,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link button](http://example.com/){: .btn .btn-outline }
 
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
+
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
+
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
+
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-outline }
+
+
 
 ### Markdown
 
