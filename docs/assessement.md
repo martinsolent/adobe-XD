@@ -10,11 +10,11 @@ nav_order: 2
  
 [freebiesupply.com](https://freebiesupply.com/free-adobe-xd)
 
-[xdguru.com]https://xdguru.com
+[xdguru.com](https://xdguru.com)
 
-[xdresources.co]https://xdresources.co
+[xdresources.co](https://xdresources.co)
 
-[developer.apple.com]https://developer.apple.com/design/resources
+[developer.apple.com](https://developer.apple.com/design/resources)
 
 [developer.android.com](https://developer.android.com/design/downloads)
 
