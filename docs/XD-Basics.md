@@ -12,12 +12,9 @@ This walk-through uses Google Material Design guidelines do create proportionall
 
 ![grids](images/grids_ui/mat_grids_icons.png)
 
-**MATERIAL DESIGN, 2020.** Material Design [viewed 4 November 2020]. Available from: [https://material.io/design/iconography/system-icons.html#design-principles] (https://material.io/design/iconography/system-icons.html#design-principles)
+**MATERIAL DESIGN, 2020.** Material Design [viewed 4 November 2020]. Available from:https://material.io/design/iconography/system-icons.html#design-principles
 
 [MORE ON UI GRIDS](ui_grids.md){: .btn .btn-purple }
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-UMOPpZ8SBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="font-size: 0.9375rem; letter-spacing: 0.45px;"></iframe>
 
 ## Adobe XD Introduction Tutorial Videos Playlist
 
@@ -26,8 +23,11 @@ This walk-through uses Google Material Design guidelines do create proportionall
 
 Download Icons & Grids Systems walk-through
 
-[XD Development File](http://example.com/){: .btn .btn-blue }
 
-[Download Xd Starter File](https://learn.solent.ac.uk/pluginfile.php/2432386/mod_resource/intro/starter_2.xd) {: .btn .btn-purple }
+[Download Xd Starter File](https://learn.solent.ac.uk/pluginfile.php/2432386/mod_resource/intro/starter_2.xd){: .btn .btn-purple }
+
+XD allows you to share your work through the cloud to undertake usability testing, show to clients, share with colleagues and also for developers to code your digital concepts Follow the link below to see what this looks like
+
+[XD Development File](http://example.com/){: .btn .btn-blue }
 
 
