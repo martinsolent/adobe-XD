@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Introduction to Adobe Experience Design (XD)
-{: .fs-9 }!
+<!-- {: .fs-9 }! -->
 
 ![xd logo](docs/images/600px-Adobe_XD_CC_icon.png)
 
