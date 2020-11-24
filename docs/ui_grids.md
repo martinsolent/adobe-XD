@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 3
+title: Grid Systems
 nav_order: 6
 ---
 

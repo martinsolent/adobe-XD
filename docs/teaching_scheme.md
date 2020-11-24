@@ -15,4 +15,3 @@ nav_order: 2
 |  2   | Adobe XD - Resources                                         |
 |  3   | Adobe XD - Basics                                            |
 |  4   | Adobe XD - Getting Started                                   |
-
