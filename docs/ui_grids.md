@@ -2,7 +2,7 @@
 layout: default
 title: Grid Systems
 parent: Adobe XD Basics
-nav_order: 6
+nav_order: 1
 ---
 
 {: .no_toc }

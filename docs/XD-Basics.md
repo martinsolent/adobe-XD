@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adobe XD Basics
-nav_order: 1
+nav_order: 3
 ---
 
 {: .no_toc }
