@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adobe XD Getting Started
-nav_order: 5
+nav_order: 6
 ---
 
 {: .no_toc }
