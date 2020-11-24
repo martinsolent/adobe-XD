@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grid Systems
+parent: Adobe XD Basics
 nav_order: 6
 ---
 
