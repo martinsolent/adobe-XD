@@ -10,9 +10,11 @@ nav_order: 7
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=49f8c653-b6a2-4917-9044-ac5f0175a475&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-[Watch video work-through here - direct link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49f8c653-b6a2-4917-9044-ac5f0175a475)
 
-[Download starter file](images/xd_states_interaction.xd)
+[VIDEODIRECT LINK](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49f8c653-b6a2-4917-9044-ac5f0175a475){: .btn .btn-purple }
+
+[DOWNLOAD STARTER XD ](images/xd_states_interaction.xd){: .btn .btn-blue } 
+
 
 The canvas size is 360 x 760 pixels 
 
