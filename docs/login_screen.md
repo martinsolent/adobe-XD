@@ -1,8 +1,7 @@
-
 ---
 layout: default
-title: Log-in Screens
-nav_order: 10
+title: Login Screen Set-up in Adobe XD
+nav_order: 7
 ---
 
 {: .no_toc }
@@ -77,4 +76,3 @@ Then the login button
 ![](log_images/login_d_11.png)
 
 Finally there is a link for No Account  - Signup
-
