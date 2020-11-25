@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Login Screen Set-up in Adobe XD
+title: Login Screen Set-up Adobe XD
 nav_order: 7
 ---
 
