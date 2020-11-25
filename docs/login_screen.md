@@ -13,7 +13,7 @@ nav_order: 7
 
 [VIDEO DIRECT LINK](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49f8c653-b6a2-4917-9044-ac5f0175a475){: .btn .btn-purple }
 
-[DOWNLOAD XD STARTER FILE](images/xd_states_interaction.xd){: .btn .btn-blue } 
+[DOWNLOAD XD STARTER FILE](images/starter_2_new_2020.xd){: .btn .btn-blue } 
 
 
 The canvas size is 360 x 760 pixels 
